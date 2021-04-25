@@ -1,0 +1,15 @@
+Monster shard UI
+Upgrades
+
+Mob Loot (hearts or gems)
+Fix room exits
+gems for crafting upgrades (extra health or more damage)
+
+if mining implemented then materials needed to be mined for upgrade, raw materials
+
+more levels
+
+Want to do:
+Mining
+loot
+crafting

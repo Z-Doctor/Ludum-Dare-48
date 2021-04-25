@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UserSettings
+/Temp/__Backupscenes
+/Temp/StagingArea/Data/Native
+/Temp/StagingArea/Data/Resources
+/Temp/StagingArea/Data/boot.config
+/Temp/StagingArea/Data/Output
+/Temp/StagingArea/Data/data.unity3d
+/Library/ShaderCache
+/Library/StateCache
+/Library/webgl_cache/linkresult_wasm_7745D71AEAEBF03C3E838B5F598A95A3
+/Library/Search
+/Library/ScriptAssemblies
+/Builds
+/Library
+/ProjectSettings
+/Temp
